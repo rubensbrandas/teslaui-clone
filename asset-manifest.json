@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/teslaui-clone/static/js/main.13636271.chunk.js",
+    "main.js.map": "/teslaui-clone/static/js/main.13636271.chunk.js.map",
+    "runtime-main.js": "/teslaui-clone/static/js/runtime-main.e47bd2d1.js",
+    "runtime-main.js.map": "/teslaui-clone/static/js/runtime-main.e47bd2d1.js.map",
+    "static/js/2.0b849b48.chunk.js": "/teslaui-clone/static/js/2.0b849b48.chunk.js",
+    "static/js/2.0b849b48.chunk.js.map": "/teslaui-clone/static/js/2.0b849b48.chunk.js.map",
+    "index.html": "/teslaui-clone/index.html",
+    "precache-manifest.b33917d9851059a895db5334cac91685.js": "/teslaui-clone/precache-manifest.b33917d9851059a895db5334cac91685.js",
+    "service-worker.js": "/teslaui-clone/service-worker.js",
+    "static/js/2.0b849b48.chunk.js.LICENSE.txt": "/teslaui-clone/static/js/2.0b849b48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e47bd2d1.js",
+    "static/js/2.0b849b48.chunk.js",
+    "static/js/main.13636271.chunk.js"
+  ]
+}
